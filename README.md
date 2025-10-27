@@ -42,8 +42,8 @@ UserForge is designed to be simple to install and run on any system with Python 
 
 ```bash
 # 1. Clone the repository (or download the source code)
-git clone https://github.com/cracknic/userforge.git
-cd userforge
+git clone https://github.com/cracknic/UserForge.git
+cd UserForge
 
 # 2. Make the installer executable
 chmod +x install.sh
