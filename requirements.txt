@@ -1,0 +1,3 @@
+# UserForge v2.0 - Python Dependencies
+# Note: Core functionality requires only Python 3.6+ standard library
+# No external dependencies required for core functionality
