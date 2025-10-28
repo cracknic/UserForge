@@ -2,7 +2,7 @@
 
 **The Ultimate Pentesting Tool for Active Directory & Brute-Force Attacks**
 
-UserForge is a powerful and highly configurable tool designed for penetration testers and security professionals to generate comprehensive and realistic username and password wordlists for Active Directory (AD) environments and general brute-force attacks. Based on extensive research of over 16 billion real-world passwords, UserForge implements critical corporate password patterns to achieve an exceptionally high success rate in simulated attacks.
+UserForge is a powerful and highly configurable tool designed for penetration testers and security professionals to generate comprehensive and realistic username and password wordlists for Active Directory (AD) environments and general brute-force attacks. Based on extensive research, UserForge implements critical corporate password patterns to achieve an exceptionally high success rate in simulated attacks.
 
 This tool is styled after the "Cracknic" programming conventions, inspired by the NmapFlow template, ensuring clean, readable, and maintainable code.
 
