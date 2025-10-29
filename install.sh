@@ -73,9 +73,9 @@ install_userforge() {
     check_python
     
     echo ""
-    echo -e "${CYAN}============================================================${NC}"
-    echo -e "${CYAN}INSTALLING USERFORGE${NC}"
-    echo -e "${CYAN}============================================================${NC}"
+    echo -e "${CYAN}*============================================================${NC}"
+    echo -e "${CYAN} INSTALLING USERFORGE${NC}"
+    echo -e "${CYAN}*============================================================${NC}"
     echo ""
     
     # Installation directory
